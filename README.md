@@ -1,7 +1,3 @@
-Certainly! Below is a sample README explaining the provided code:
-
----
-
 # Knowledge Assistant with Language Models
 
 ## Overview
@@ -56,5 +52,3 @@ This repository contains code for a Knowledge Assistant system that leverages la
 This code is provided under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this README based on the specific details of your implementation or any additional context you'd like to provide.
